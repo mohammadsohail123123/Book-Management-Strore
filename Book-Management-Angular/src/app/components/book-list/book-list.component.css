@@ -1,0 +1,11 @@
+.active{
+    background: rgb(56, 56, 179);
+    color: white;
+    
+}
+
+a{
+    cursor: pointer;
+    text-decoration:none;
+    list-style-type:none;
+}
