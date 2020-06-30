@@ -54,7 +54,7 @@ public class AppDaoImpl implements AppDao {
 	        	
 	        	OldStudent old=new OldStudent(788, "fdf", "Fdfdfsdf", "Dsdsd");
 	        	session.saveOrUpdate(old);
-		         
+		         System.out.println("fone");
 	        	 
 	        	 
 		       ;
